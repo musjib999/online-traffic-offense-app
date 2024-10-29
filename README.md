@@ -6,7 +6,7 @@
 
 - [Node.js](https://nodejs.org/en/) (v14+)
 - [MongoDB](https://www.mongodb.com/) (Ensure MongoDB is running locally or provide a MongoDB URI)
-- [react](https://react.dev/learn/installation)
+- [react](ttps://reactjs.org)
 
 ### Setup Instructions
 
